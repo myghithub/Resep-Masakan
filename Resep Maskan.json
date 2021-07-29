@@ -1,0 +1,95 @@
+{
+  "pc": "com.alkhalilstudio.resepmasakan",
+  "kang_zayvius": [      
+    {
+      "id": "1",
+      "tittle": "Tumis Buncis Udang",
+      "link_html": "https://raw.githubusercontent.com/myghithub/Resep-Masakan/main/Tumis%20Buncis%20Udang.html",
+      "images": "https://www.masakapahariini.com/wp-content/uploads/2019/08/tumis-buncis-780x440.jpg"
+     },
+     {
+      "id": "2",
+      "tittle": "Sayur Asem",
+      "link_html": "https://raw.githubusercontent.com/myghithub/Resep-Masakan/main/Sayur%20Asem.html",
+      "images": "https://cdn-brilio-net.akamaized.net/news/2021/07/09/209406/1513946-resep-masakan-rumahan-sederhana.png"
+     },
+    {
+      "id": "3",
+      "tittle": "Oseng Tempe Kacang",
+      "link_html": "https://raw.githubusercontent.com/myghithub/Resep-Masakan/main/Oseng%20Tempe%20Kacang.html",
+      "images": "https://cdn-brilio-net.akamaized.net/news/2021/07/09/209406/1513949-resep-masakan-rumahan-sederhana.png"
+     },
+    {
+      "id": "4",
+      "tittle": "Chicken kriuk cabai garam",
+      "link_html": "https://raw.githubusercontent.com/myghithub/Resep-Masakan/main/Chiken%20Kriuk%20Cabai%20Garram.html",
+      "images": "https://cdn-brilio-net.akamaized.net/news/2021/07/09/209406/1513949-resep-masakan-rumahan-sederhana.png"
+     },
+     {
+      "id": "5",
+      "tittle": "Tumis tofu saus tiram.",
+      "link_html": "https://raw.githubusercontent.com/myghithub/Resep-Masakan/main/Tumis%20Tofu%20Saur%20Tiram.html",
+      "images": "https://cdn-brilio-net.akamaized.net/news/2021/07/09/209406/1513950-resep-masakan-rumahan-sederhana.png"
+     },
+     {
+      "id": "6",
+      "tittle": "Tumis jamur sosis",
+      "link_html": "https://raw.githubusercontent.com/myghithub/Resep-Masakan/main/Tumis%20Jamur%20Sosis.html",
+      "images": "https://cdn-brilio-net.akamaized.net/news/2021/07/09/209406/1513951-resep-masakan-rumahan-sederhana.png"
+     },
+    {
+      "id": "7",
+      "tittle": "Telur sambal",
+      "link_html": "https://raw.githubusercontent.com/myghithub/Resep-Masakan/main/Telur%20Sambal.html",
+      "images": "https://cdn-brilio-net.akamaized.net/news/2021/07/09/209406/1513953-resep-masakan-rumahan-sederhana.png"
+     },
+     {
+      "id": "8",
+      "tittle": "Bening bayam",
+      "link_html": "https://raw.githubusercontent.com/myghithub/Resep-Masakan/main/Benig%20Bayam.html",
+      "images": "https://cdn-brilio-net.akamaized.net/news/2021/07/09/209406/1513952-resep-masakan-rumahan-sederhana.png"
+     },
+    {
+      "id": "9",
+      "tittle": "Bobor pucuk labu",
+      "link_html": "https://raw.githubusercontent.com/myghithub/Resep-Masakan/main/Bobor%20Pucuk%20Labu.html",
+      "images": "https://cdn-brilio-net.akamaized.net/news/2021/07/09/209406/1513954-resep-masakan-rumahan-sederhana.png"
+     },
+    {
+      "id": "10",
+      "tittle": "Sup jagung sosis.",
+      "link_html": "https://raw.githubusercontent.com/myghithub/Resep-Masakan/main/Sup%20Jagung%20Sosis.html",
+      "images": "https://cdn-brilio-net.akamaized.net/news/2021/07/09/209406/1513955-resep-masakan-rumahan-sederhana.png"
+     },
+     {
+      "id": "11",
+      "tittle": "Cah kangkung tempe",
+      "link_html": "https://raw.githubusercontent.com/myghithub/Resep-Masakan/main/Cah%20Kangkung%20Tempe.html",
+      "images": "https://cdn-brilio-net.akamaized.net/news/2021/07/09/209406/1513956-resep-masakan-rumahan-sederhana.png"
+     },
+     {
+      "id": "12",
+      "tittle": "Terong balado",
+      "link_html": "https://raw.githubusercontent.com/myghithub/Resep-Masakan/main/Terong%20Balado.html",
+      "images": "https://cdn-brilio-net.akamaized.net/news/2021/07/09/209406/1513941-resep-masakan-rumahan-sederhana.png"
+     },
+     {
+      "id": "13",
+      "tittle": "Mangut lele.",
+      "link_html": "https://raw.githubusercontent.com/myghithub/Resep-Masakan/main/Mangut%20Lele.html",
+      "images": "https://cdn-brilio-net.akamaized.net/news/2021/07/09/209406/1513942-resep-masakan-rumahan-sederhana.png"
+     },
+     {
+      "id": "14",
+      "tittle": "Labu siam kuah santan",
+      "link_html": "https://raw.githubusercontent.com/myghithub/Resep-Masakan/main/Labu%20Siam%20Kuah%20Santan.html",
+      "images": "https://cdn-brilio-net.akamaized.net/news/2021/07/09/209406/1513943-resep-masakan-rumahan-sederhana.png"
+     },
+     {
+      "id": "15",
+      "tittle": "Oseng bunga pepaya",
+      "link_html": "https://raw.githubusercontent.com/myghithub/Resep-Masakan/main/Oseng%20Bunga%20Pepaya.html",
+      "images": "https://cdn-brilio-net.akamaized.net/news/2021/07/09/209406/1513944-resep-masakan-rumahan-sederhana.png"
+     }
+  ]
+}
