@@ -17,7 +17,7 @@
       "id": "3",
       "tittle": "Oseng Tempe Kacang",
       "link_html": "https://raw.githubusercontent.com/myghithub/Resep-Masakan/main/Oseng%20Tempe%20Kacang.html",
-      "images": "https://cdn-brilio-net.akamaized.net/news/2021/07/09/209406/1513948-resep-masakan-rumahan-sederhana.png"
+      "images": "https://cdn-brilio-net.akamaized.net/news/2021/07/09/209406/1513949-resep-masakan-rumahan-sederhana.png"
      },
     {
       "id": "4",
@@ -90,6 +90,36 @@
       "tittle": "Oseng bunga pepaya",
       "link_html": "https://raw.githubusercontent.com/myghithub/Resep-Masakan/main/Oseng%20Bunga%20Pepaya.html",
       "images": "https://cdn-brilio-net.akamaized.net/news/2021/07/09/209406/1513944-resep-masakan-rumahan-sederhana.png"
+     },
+     {
+      "id": "16",
+      "tittle": "Ayam rica",
+      "link_html": "https://raw.githubusercontent.com/myghithub/Resep-Masakan/main/Ayam%20Rica%20Rica.html",
+      "images": "https://cdn.idntimes.com/content-images/community/2019/06/20190602-230611-0cd0ac818eba8bb89d550389b4ac1854.jpg"
+     },
+     {
+      "id": "17",
+      "tittle": "Ceker pedas",
+      "link_html": "https://raw.githubusercontent.com/myghithub/Resep-Masakan/main/Ceker%20Pedas.html",
+      "images": "https://cdn.idntimes.com/content-images/community/2019/06/20190602-231329-63448d9b602606961043eaca939f10cc.jpg"
+     },
+     {
+      "id": "18",
+      "tittle": "Stik cumi goreng havermout",
+      "link_html": "https://raw.githubusercontent.com/myghithub/Resep-Masakan/main/Stik%20cumi%20goreng%20havermout.html",
+      "images": "https://cdn.idntimes.com/content-images/community/2019/06/20190602-232212-7d8163f943b7ffea654986f3a4620509.jpg"
+     },
+     {
+      "id": "19",
+      "tittle": "Ketupat ayam kare",
+      "link_html": "https://raw.githubusercontent.com/myghithub/Resep-Masakan/main/Ketupat%20ayam%20kare.html",
+      "images": "https://cdn.idntimes.com/content-images/community/2019/06/20190602-231909-0e5e661927ba352686c27645da8a88b9.jpg"
+     },
+     {
+      "id": "20",
+      "tittle": "Tongseng daging sapi",
+      "link_html": "https://raw.githubusercontent.com/myghithub/Resep-Masakan/main/Tongseng%20daging%20sapi.html",
+      "images": "https://cdn.idntimes.com/content-images/community/2019/06/tongseng-d488ae486f6be583193c2cdf32f1dfe1.jpg"
      }
   ]
 }
